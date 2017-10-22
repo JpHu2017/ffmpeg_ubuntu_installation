@@ -2,7 +2,7 @@
 
 ## 1、安装x264
 
-### libx264需要yasm，所以先安装yasm
+### libx264需要yasm，所以先安装yasm(已弃用，改安装nasm)
 
 ```sh
 sudo apt-get install yasm
